@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*  header */
+.nav_stone{
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+}
+
+.nav_img{
+    padding: 10px;
+    padding-right: 180px;
+}
+
+.nav_stone_p{
+    padding: 10px 30px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.nav_body{
+    background-image: url(/assets/img/1.jpg);
+}
+
+.tittle{
+    display: flexbox;
+    text-align: center;
+    padding-top: 300px;
+    padding-bottom: 70px;
+    color: white;
+}
+
+/* section */
+
+.product_tittle{
+    text-align: center;
+    padding: 10px;
+    padding-top: 0%;
+}
+
+.product{
+    display: flexbox;
+    justify-content: space-between;
+}
+
+.product_one{
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: justify;
+}
+
+.product_two{
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: justify;
+    
+}
+
+.footer_img{
+    background-image: url(/assets/img/fondoFooter2.jpg);
+}
