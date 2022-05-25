@@ -7,7 +7,7 @@
 /* =24px */
 
 .nav {
-    background-image: url(/assets/img/1.jpg);
+    background-image: url(./assets/img/1.jpg);
     display: flex;
     flex-direction: column;
     height: 70vh;
@@ -112,7 +112,7 @@
 }
 
 .credits {
-    background-image: url(/assets/img/fondoFooter2.jpg);
+    background-image: url(./assets/img/fondoFooter2.jpg);
     background-size: cover;
 }
 
